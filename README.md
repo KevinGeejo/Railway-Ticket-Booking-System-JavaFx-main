@@ -56,6 +56,6 @@ Contributions to the Railway-Ticket-Booking-System-JavaFx project are welcome! I
 
 ## Contact
 
-If you have any questions or need further assistance, please contact at aniketvparate@email.com.
+If you have any questions or need further assistance, please contact at kevingeejo02@gmail.com
 
 Thank you for using Railway-Ticket-Booking-System-JavaFx! Happy booking!
