@@ -24,7 +24,7 @@ public class DatabaseConnector {
             System.out.println("DB Connection done !");
         } catch (Exception e) {
             e.printStackTrace();
-            System.out.println("DB Connection Failures !");
+            System.out.println("DB Connection Failed !");
         }
         return databaseLink;
     }
